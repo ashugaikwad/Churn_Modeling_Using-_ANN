@@ -1,1 +1,2 @@
-# Churn_Modeling_Using-_ANN
+# Churn_Modeling_Using_ANN
+Based upon data of employees of a bank we calculate whether a employee stands a chance to stay in the company or not. Programming details : python, Tensorflow, Keras, pandas, matplotlib . Data extraction and Data cleaning . Exploratory Data Analysis . Data Preprocessing . Work on Artifical Nural Network to find best Model Prediction . Predicting the outcome as whether a employee stands a chance to stay in the company or not.
